@@ -1,0 +1,5 @@
+This is the code repo for SLK project.
+Including three different parts:
+1. identify differential splicing events from TCGA datasets
+2. RNA-seq analysis for different SLK cell lines
+3. other bioinfo analysis
